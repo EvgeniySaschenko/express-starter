@@ -11,6 +11,10 @@ module.exports = {
     "prettier",
   ],
 
+  "globals": {
+    "ROOT_PATH": true
+  },
+
 
   parser: "babel-eslint",
 
